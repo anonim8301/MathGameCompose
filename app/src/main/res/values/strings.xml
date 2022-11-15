@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">MathGameCompose</string>
+
+    <string name="splash_screen_icon">Splash Screen Icon</string>
+
+    <string name="rules_app_bar">Rules</string>
+    <string name="levels_app_bar">Choose level</string>
+    <string name="game_app_bar">MathGame</string>
+    <string name="result_app_bar">Result</string>
+
+    <string name="game_right_answers_count">Правильных ответов %s (минимум %s)</string>
+
+    <string name="rules_text_1">Состав Числа</string>
+    <string name="rules_text_2">Правила игры: перед вами будет три фигуры, две снизу и одна сверху, в двух из них будут
+        числа. Необходимо, чтобы сумма чисел из двух нижних фигур была равна числу в верхней фигуре,
+        для этого нужно вставить недостающее число.\n\nПример: в верхнем круге число 7, в одном
+        из нижних знак вопроса, а в другом число 4. Значит на месте вопросительного знака должно
+        быть число 3, потому что 3 + 4 = 7
+    </string>
+    <string name="rules_text_3">Понятно</string>
+
+    <string name="levels_choose_text">Выберите уровень:</string>
+    <string name="levels_test_text">ТЕСТОТВЫЙ</string>
+    <string name="levels_easy_text">ЛЕГКИЙ</string>
+    <string name="levels_medium_text">СРЕДНИЙ</string>
+    <string name="levels_hard_text">СЛОЖНЫЙ</string>
+
+    <string name="result_required_score">Необходимое количество правильных ответов: %s</string>
+    <string name="result_score_answers">Ваш счет: %s</string>
+    <string name="result_required_percentage">Необходимый процент правильных ответов: %s</string>
+    <string name="result_score_percentage">Процент правильных ответов: %s</string>
+    <string name="result_retry_game">ПОПРОБОВАТЬ СНОВА</string>
+
+</resources>
